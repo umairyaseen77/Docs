@@ -27,7 +27,16 @@
 
 &rlm; https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Contributor%20Best%20Practices.md
 
+## کوڈ کنٹریبیوٹر گائیڈ برائے وزن کمانا اور ان کی مضمر قدر
+ہر ماہ اپ ڈیٹ کی جانے والی وزن فی مضمر قدر کی تفصیلی وضاحت۔
+&rlm; https://github.com/MorpheusAIs/Docs/blob/main/Guides/Code%20Contributor%20Weights%20Guide.md
+## ریفرنس تطبیقات کی فہرست
+موجودہ اور نئی مورفیئس تطبیقات
+&rlm; https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Reference%20Implementations.md
+
 ## &rlm; Pull Requests میں شامل کرنے کے لیے کوڈ کنٹریبیوٹر ٹیبل
 اپنی کوڈ شراکتوں کے ساتھ GitHub پر کوڈ کنٹریبیوٹر ٹیبل کو اپ ڈیٹ کریں اور اپنی گھنٹہ کی درخواست کے ساتھ شامل کریں۔
 
 &rlm; https://github.com/MorpheusAIs/Docs/blob/main/Contributions/Code%20-%20Proof_Of_Contribution.md
+
+اگر کوئی ڈویلپر کمیٹیوں اور RFPs کی تلاش کر رہا ہے تو وہ غلط پروجیکٹ دیکھ رہا ہے۔ مورفیئس کی نوعیت اٹامک گورننس ہے۔ اس کا مطلب یہ ہے کہ ماہرین وہ بناتے ہیں جو وہ چاہتے ہیں اور GitHub مینٹینرز پلیٹ فارم میں ہونے پر جج کے طور پر کام کرتے ہیں یا صارفین ایک کھلی مارکیٹ میں سمارٹ ایجنٹ کو استعمال کرنے کا فیصلہ کرتے ہیں۔ یہاں کوڈرز مقابلہ کرتے ہیں۔ کوئی ضمانت نہیں کہ کوڈ ریلیز ہونے تک کوئی اسے استعمال کرے گا۔
