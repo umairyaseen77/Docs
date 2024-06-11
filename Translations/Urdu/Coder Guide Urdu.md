@@ -2,32 +2,31 @@
 بہت سے ڈویلپرز مورفیئس کمیونٹی میں شامل ہو رہے ہیں۔ آپ سب کا خیرمقدم ہے!
 آپ مورفیئس کمیونٹی کا ایک اہم حصہ ہیں اور آپ کی محنت کے لیے بہت سے انعامات حاصل کیے جا سکتے ہیں۔
 مورفیئس میں تمام MOR اخراجات کا 24٪ کوڈرز کو جاتا ہے اور یہ آئندہ 16 سالوں تک جاری رہے گا جیسا کہ 42 ملین MOR کے تمام اخراجات کا حصہ ہے۔
-
 ## گائیڈ:
 شروع کرنے کے لیے یہاں کچھ وسائل کی ایک مختصر فہرست اور مورفیئس میں بہتری اور کوڈ شامل کرنے کے بہترین طریقوں کی فہرست دی گئی ہے۔
-
 ## &rlm; TL;DR
 - مورفیئس کمنٹس کے لیے درخواست (MRC) کی فہرست کا جائزہ لیں بلند سطح کی سمجھ بوجھ کے لیے۔
 - خاصیتوں کے لیے GitHub کے مسائل کی فہرست کا جائزہ لیں۔
 - اپنے کوڈ کو شامل کرنے کے طریقوں پر مشوروں کے لیے بہترین عملیات کا جائزہ لیں۔
+- وزن حاصل کرنے اور ان کی اخفا کردہ قدر کے لئے کوڈ شراکت دار گائیڈ کا جائزہ لیں۔
+- ریفرنس ایمپلیمنٹیشن لسٹ کا جائزہ لیں۔
 - مورفیئس کو قدر میں اضافہ کرنے والا ایک Pull Request جمع کروائیں۔
-
 ## مورفیئس کمنٹس کے لیے درخواست:
 مورفیئس، سمارٹ ایجنٹس، ٹوکنومکس، اور ٹیکنو کیپیٹل مشین کو بہتر بنانے، نافذ کرنے سے متعلق تمام کاغذات / تجاویز کی فہرست شامل ہے۔
-
-&rlm; https://github.com/MorpheusAIs/MRC/blob/main/Morpheus%20Request%20For%20Comments%20(MRC).md
-
-## جاری کام کی تفصیلات کے لیے GitHub پر مسئلہ کی فہرست چیک کریں
+&rlm; https://github.com/MorpheusAIs/MRC/blob/main/README.md
+## جاری کام کی تفصیلات کے لیے GitHub پر مسائل کی فہرست چیک کریں
 مورفیئس GitHub پر رپورٹ کی گئی فعال مسائل کی فہرست شامل ہے۔
-
-&rlm; https://github.com/MorpheusAIs/Morpheus/issues
-
+&rlm; https://github.com/MorpheusAIs
 ## کوڈ شامل کرنے کے لیے بہترین عملیات
 کوڈ شامل کرنے کا طریقہ کار، اور آپ کے Pull Request کے شامل ہونے کے امکانات کو بڑھانے کی تفصیلات۔
-
-&rlm; https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Contributor%20Best%20Practices.md
-
-## &rlm; Pull Requests میں شامل کرنے کے لیے کوڈ کنٹریبیوٹر ٹیبل
-اپنی کوڈ شراکتوں کے ساتھ GitHub پر کوڈ کنٹریبیوٹر ٹیبل کو اپ ڈیٹ کریں اور اپنی گھنٹہ کی درخواست کے ساتھ شامل کریں۔
-
-&rlm; https://github.com/MorpheusAIs/Docs/blob/main/Contributions/Code%20-%20Proof_Of_Contribution.md
+&rlm; https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Best%20Practices.md
+## وزن حاصل کرنے اور ان کی اخفا کردہ قدر کے لئے کوڈ شراکت دار کی گائیڈ
+وزن فی اخفاء قدر کی تفصیلی وضاحت جو ماہانہ اپ ڈیٹ ہوتی ہے۔
+&rlm; https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Code%20Contributor%20Weights%20Guide.md
+## ریفرنس ایمپلیمنٹیشن لسٹ
+موجودہ اور نئے مورفیئس نفاذ
+&rlm; https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Code%20Providers/Morpheus%20Reference%20Implementations%20(MRC).md
+## &rlm; Pull Requests میں شامل کرنے کے لیے کوڈ شراکت دار ٹیبل
+اپنی کوڈ شراکتوں کے ساتھ GitHub پر کوڈ شراکت دار ٹیبل کو اپ ڈیٹ کریں اور اپنے وزن کی درخواست کے ساتھ شامل کریں۔
+&rlm; https://github.com/MorpheusAIs/Docs/tree/main/Contributions
+اگر کوئی ڈویلپر کمیٹیوں اور آر ایف پیز کی تلاش کر رہا ہے تو وہ غلط پروجیکٹ کو دیکھ رہا ہے۔ مورفیئس کی نوعیت [ایٹومک گورننس](https://github.com/MorpheusAIs/Docs/blob/main/!KEYDOCS%20README%20FIRST!/Capital%20Providers%2C%20MOR20%2C%20TCM/Techno%20Capital%20Machine%20(TCM).md#atomic-governance) ہے۔ اس کا مطلب ہے کہ ماہرین وہ بناتے ہیں جو وہ چاہتے ہیں اور GitHub کے منتظم اسے پلیٹ فارم میں مرج کرنے کے لیے ججز کے طور پر کام کرتے ہیں یا صارفین ایک کھلی مارکیٹ میں اسمارٹ ایجنٹ استعمال کرنے کا فیصلہ کرتے ہیں۔ یہاں کوڈرز مقابلہ کرتے ہیں۔ اس بات کی کوئی ضمانت نہیں کہ ریلیز ہونے تک کوئی کوڈ استعمال کرے گا۔
